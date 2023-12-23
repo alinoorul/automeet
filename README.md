@@ -14,7 +14,7 @@ daystarttime=:	#efines day start time to not have entire program run before star
 dayendtime: when do all classes end, to stop program (default = 17:00)
 ttpath: text file with timetable (default = "\timetable.txt")
 
-LIBRARIES to be installed:
+Dependencies:
 pyautogui
 pywin32
 
@@ -23,3 +23,7 @@ pywin32
 My professor didn't take an attendance roll-call, so simply joining and exiting the Google Meet video conference was enough to make him think I (the human) joined. Instead a very simple program joined it. Automeet barely has awareness and is an algorithm, yet it was enough to convince my professor that I'd joined the class. Simply because my professor did not measure enough parameters to ascertain if it was me or not. A simple roll-call would have sufficed for the professor to suspect the human had not joined the conference. But this lack of measurement introduced possibility. Possibility in what we're measuring to be human. I don't believe Automeet passes the Turing test of English. But it did fool my professor into thinking the program was a human. It passed a limited measurement Turing test. 
 
 by Noorul
+
+# Bots 4 U Consultancy
+
+If you'd like a human coder to implement and maintain this project within your organization's codebase, we have yearly contracts. Contact us at manonthemoon13131@gmail.com.
