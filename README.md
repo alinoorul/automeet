@@ -1,5 +1,7 @@
 # Automeet
 
+Update 2023: this probably won't work for anyone but me because the images that are getting recognized were specific to the version of Google Chrome and Google Meet I used in March 2020. It worked then, probably won't work now without significant refactoring. 
+
 Automeet is a bot (Python program with some level of spatial and temporal awareness) which attends Google Meets for you. A logged in Google user can attend college lectures by inputting a timetable in a JSON file.
 
 This script uses image recognition and emulates human input using pyautogui and win32api. 
