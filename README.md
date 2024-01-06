@@ -1,7 +1,7 @@
 # Automeet
 
 #### Update  (Dec 2023)
-This probably won't work for anyone but me because the images that are getting recognized were specific to the version of Google Chrome and Google Meet I used in March 2020. It worked then, probably won't work now without significant refactoring, because of UI updates to applications, account specificity, device driver permissions (and probably more).
+This probably won't work for anyone but me because the images that are getting recognized were specific to the version of Google Chrome and Google Meet I used in March 2020. It worked then, probably won't work now without significant refactoring, because of UI updates to applications, account specificity, device driver permissions (and more).
 
 ### About
 
